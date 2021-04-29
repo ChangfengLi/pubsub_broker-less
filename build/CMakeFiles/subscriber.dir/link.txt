@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/subscriber.dir/src/tutorial_pubsub_subscribe.c.o -o subscriber  ../open62541/libopen62541.a -lpthread 

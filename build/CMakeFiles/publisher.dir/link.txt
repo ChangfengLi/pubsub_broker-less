@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/publisher.dir/src/tutorial_pubsub_publish.c.o -o publisher  ../open62541/libopen62541.a -lpthread 
