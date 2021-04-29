@@ -1,6 +1,7 @@
 # pubsub_broker-less
 
 依赖：open62541 v1.2
+
 参考：https://blog.csdn.net/whahu1989/article/details/99189801
 https://blog.csdn.net/whahu1989/article/details/112735217
 
